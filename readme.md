@@ -82,7 +82,7 @@ vw_customers_by_country
 vw_products_distribution
 
 These views allow the dashboard to quickly extract aggregated metrics without repeatedly querying the raw dataset.
-![Customer Churn Dashboard](/images/schema.png)
+![Customer Churn Dashboard](/images/schemas.png)
 
 ---
 <h2><a class="anchor" id="sample-SQL-query-example"></a>Sample SQL </h2>
@@ -97,7 +97,7 @@ This query provides total profit grouped by region.
    - Average Balance
    - Average Salary
 
-Result:![Customer Churn Dashboard](/images/kpi summary.png)
+Result: ![Customer Churn Dashboard](/images/kpi summary.png)
 
 
 ---
@@ -129,7 +129,7 @@ Average Salary by Age Group
 Average Balance
 Credit Score Distribution
 
-![Customer Churn Dashboard](/images/Dashboard.png)
+![Customer Churn Dashboard](/images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="key-insights"></a>Key Insights</h2>
