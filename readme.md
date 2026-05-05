@@ -138,7 +138,7 @@ Average Balance
 
 Credit Score Distribution
 
-![Customer Churn Dashboard](/images/dashboard.png)
+![Customer Churn Dashboard](/images/image.jpg)
 
 ---
 <h2><a class="anchor" id="key-insights"></a>Key Insights</h2>
